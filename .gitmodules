@@ -1,3 +1,6 @@
 [submodule "Configure-a-K8s-cluster-with-Prometheus-monitoring-and-alerting"]
 	path = Configure-a-K8s-cluster-with-Prometheus-monitoring-and-alerting
 	url = https://github.com/Rajib-Mardi/Configure-a-K8s-cluster-with-Prometheus-monitoring-and-alerting.git
+[submodule "Deploy-a-web-app-inside-the-cluster-with-its-dependent-services-and-configure-monitoring-for-it"]
+	path = Deploy-a-web-app-inside-the-cluster-with-its-dependent-services-and-configure-monitoring-for-it
+	url = https://github.com/Rajib-Mardi/Deploy-a-web-app-inside-the-cluster-with-its-dependent-services-and-configure-monitoring-for-it.git
