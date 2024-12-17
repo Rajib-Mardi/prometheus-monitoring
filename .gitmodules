@@ -1,0 +1,3 @@
+[submodule "Configure-a-K8s-cluster-with-Prometheus-monitoring-and-alerting"]
+	path = Configure-a-K8s-cluster-with-Prometheus-monitoring-and-alerting
+	url = https://github.com/Rajib-Mardi/Configure-a-K8s-cluster-with-Prometheus-monitoring-and-alerting.git
